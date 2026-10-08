@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PandoraAnimalLife</string>
+    
+    <string name="label_habitat">HABITAT</string>
+    <string name="label_tamanho">TAMANHO</string>
+    <string name="label_descricao">Descrição</string>
+    <string name="btn_voltar">Voltar ao catálogo</string>
+    <string name="app_title">Bestiário de Pandora</string>
+    <string name="app_subtitulo">Diário de campo da fauna de Pandora</string>
+
+</resources>
